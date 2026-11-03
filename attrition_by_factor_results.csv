@@ -1,0 +1,50 @@
+factor,employee_group,employees,employees_left,attrition_rate_pct
+Age Band,Under 30,326,91,27.9
+Age Band,30-39,622,89,14.3
+Age Band,50+,173,23,13.3
+Age Band,40-49,349,34,9.7
+Business Travel,Travel_Frequently,277,69,24.9
+Business Travel,Travel_Rarely,1043,156,15
+Business Travel,Non-Travel,150,12,8
+Department,Sales,446,92,20.6
+Department,Human Resources,63,12,19
+Department,Research & Development,961,133,13.8
+Environment Satisfaction,Low,284,72,25.4
+Environment Satisfaction,Medium,287,43,15
+Environment Satisfaction,High,453,62,13.7
+Environment Satisfaction,Very High,446,60,13.5
+Job Level,1,543,143,26.3
+Job Level,3,218,32,14.7
+Job Level,2,534,52,9.7
+Job Level,5,69,5,7.2
+Job Level,4,106,5,4.7
+Job Role,Sales Representative,83,33,39.8
+Job Role,Laboratory Technician,259,62,23.9
+Job Role,Human Resources,52,12,23.1
+Job Role,Sales Executive,326,57,17.5
+Job Role,Research Scientist,292,47,16.1
+Job Role,Healthcare Representative,131,9,6.9
+Job Role,Manufacturing Director,145,10,6.9
+Job Role,Manager,102,5,4.9
+Job Role,Research Director,80,2,2.5
+Job Satisfaction,Low,289,66,22.8
+Job Satisfaction,High,442,73,16.5
+Job Satisfaction,Medium,280,46,16.4
+Job Satisfaction,Very High,459,52,11.3
+Marital Status,Single,470,120,25.5
+Marital Status,Married,673,84,12.5
+Marital Status,Divorced,327,33,10.1
+Overtime,Yes,416,127,30.5
+Overtime,No,1054,110,10.4
+Stock Option Level,0,631,154,24.4
+Stock Option Level,3,85,15,17.6
+Stock Option Level,1,596,56,9.4
+Stock Option Level,2,158,12,7.6
+Tenure Band,0-1 years,215,75,34.9
+Tenure Band,2-4 years,365,66,18.1
+Tenure Band,5-9 years,524,58,11.1
+Tenure Band,10+ years,366,38,10.4
+Work-Life Balance,Bad,80,25,31.3
+Work-Life Balance,Best,153,27,17.6
+Work-Life Balance,Good,344,58,16.9
+Work-Life Balance,Better,893,127,14.2
