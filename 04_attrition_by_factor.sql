@@ -15,6 +15,18 @@ sql
 --          for each group.
 -- Output:  Saved as hr_data.attrition_by_factor; exported as
 --          attrition_by_factor_results.csv.
+--
+-- Key findings (baseline 16.1%):
+--   - Overtime: 30.5% vs. 10.4% without; overtime workers are
+--     28% of employees but 54% of terminations.
+--   - Tenure 0-1 years: 34.9%, declining steadily with tenure.
+--   - Job Level 1: 26.3%, accounting for 60% of terminations;
+--     Sales Representatives highest by role (39.8%).
+--   - Stock Option Level 0: 24.4% (see queries 06 and 07).
+--   - Low Environment Satisfaction (25.4%) and Low Job
+--     Satisfaction (22.8%) are well above baseline.
+--   - These factors overlap and largely describe one
+--     early-career, lower-paid group.  
 -- ============================================================
 
 WITH base AS (
