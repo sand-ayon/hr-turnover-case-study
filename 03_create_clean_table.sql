@@ -1,3 +1,4 @@
+sql
 -- ============================================================
 -- 03_create_clean_table.sql
 -- Purpose: Build an analysis-ready table from the raw data.
