@@ -1,5 +1,5 @@
 -- ============================================================
--- 03_create_clean_table.sql
+-- 03_create_clean_table. sql
 -- Purpose: Build an analysis-ready table from the raw data.
 -- Source:  sa-hr-attrition.hr_data.attrition (1,470 rows)
 -- Output:  sa-hr-attrition.hr_data.attrition_clean (1,470 rows)
