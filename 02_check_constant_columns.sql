@@ -1,3 +1,4 @@
+sql
 -- ============================================================
 -- 02_check_constant_columns.sql
 -- Purpose: Identify columns that hold the same value for every
