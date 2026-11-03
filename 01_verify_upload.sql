@@ -1,3 +1,4 @@
+sql
 -- ============================================================
 -- 01_verify_upload.sql
 -- Purpose: Confirm the dataset uploaded completely and check
