@@ -15,7 +15,7 @@ A mid-sized company is losing about 16% of its workforce to attrition and wants 
 **Metric:** Attrition rate (employees who left ÷ total employees), compared across employee groups.
 
 ## Data Source
-[IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle). The dataset is fictional and was created by IBM data scientists. It contains 1,470 employee records and 35 columns.
+[IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle). The dataset is fictional and was created by IBM data scientists. It contains 1,470 employee records and 35 columns. The dataset is published under the Open Database License (ODbL). It is reliable and well documented but not original or current, since it is fictional and represents a single point in time.
 
 ## Tools
 - **Google BigQuery (SQL):** data verification, cleaning, and analysis
