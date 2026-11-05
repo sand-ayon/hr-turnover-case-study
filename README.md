@@ -1,6 +1,7 @@
 # HR Attrition Case Study
 
 **Google Data Analytics Professional Certificate – Capstone Project**
+
 Author: Sandra Ayon · [LinkedIn](https://www.linkedin.com/in/sandra-ayon)
 
 ## Dashboard
