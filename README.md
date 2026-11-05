@@ -1,9 +1,3 @@
-# hr-turnover-case-study
-Google Data Analytics capstone: HR case study
-Author: Sandra Ayon · [LinkedIn](https://www.linkedin.com/in/sandra-ayon)
-
-https://public.tableau.com/app/profile/sandra.ayon7278/viz/HRAttritionCaseStudy_17936714709390/HRAttritionDashboard
-
 # HR Attrition Case Study
 
 **Google Data Analytics Professional Certificate – Capstone Project**
