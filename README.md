@@ -11,6 +11,7 @@ Author: Sandra Ayon · [LinkedIn](https://www.linkedin.com/in/sandra-ayon)
 A mid-sized company is losing about 16% of its workforce to attrition and wants to understand why. This analysis identifies which employee groups and factors (such as overtime, tenure, job level, pay, and satisfaction) are most associated with employees leaving, and recommends actions HR leadership can take to reduce turnover.
 
 **Key stakeholders:** VP of Human Resources (primary audience), HR business partners, and department managers.
+
 **Metric:** Attrition rate (employees who left ÷ total employees), compared across employee groups.
 
 ## Data Source
