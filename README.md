@@ -55,6 +55,15 @@ These factors overlap and largely describe one high-risk group: early-career, en
 3. **Review pay and career paths for Job Level 1 roles,** starting with Sales Representatives and Laboratory Technicians.
 4. **Act on satisfaction survey results** for groups reporting low environment or job satisfaction.
 
+## Further Exploration
+With additional data, the next steps would be:
+1. **Separation type and exit reasons:** Distinguish voluntary from involuntary terminations and analyze exit interview data to see *why* employees leave, not just who.
+2. **Termination dates:** Track attrition over time to spot seasonal patterns or spikes after policy or leadership changes.
+3. **Actual overtime hours:** Measure how much overtime drives attrition, rather than a Yes/No flag.
+4. **Pay benchmarks:** Compare salaries with market rates to test whether lower pay for Job Level 1 roles is below market.
+5. **Manager-level data:** Check whether attrition clusters under specific managers or teams.
+6. **Multivariate analysis:** Use a model such as logistic regression to separate overlapping factors (overtime, tenure, job level, pay) and estimate each one's independent effect.
+
 ## Limitations
 - The data is fictional and represents a single point in time.
 - "Terminated" includes all separations; the dataset does not distinguish voluntary from involuntary exits.
